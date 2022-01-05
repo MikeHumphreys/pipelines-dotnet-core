@@ -1,5 +1,8 @@
 [![Build Status](https://froburg.visualstudio.com/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-CI?branchName=master)](https://froburg.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=5&branchName=master)
 
+![example workflow](https://github.com/MikeHumphreys/pipelines-dotnet-core/actions/workflows/github-actions-demo.yml/badge.svg)
+
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
